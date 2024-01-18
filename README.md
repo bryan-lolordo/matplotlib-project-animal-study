@@ -1,6 +1,6 @@
-# matplotlib-challenge
-Matplotlib
-<div id="bootcamp"><img style="display: none;" src="https://static.bc-edx.com/data/dl-1-1/m20/lms/img/banner.jpg" alt="lesson banner" />
+# The Power of Plots
+
+What good is data without a good plot to tell the story?
 
 ### Background
 
